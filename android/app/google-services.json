@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "642806796317",
+    "firebase_url": "https://smarthouse-52ff0-default-rtdb.firebaseio.com",
+    "project_id": "smarthouse-52ff0",
+    "storage_bucket": "smarthouse-52ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642806796317:android:32245b8c65968570a1b6f4",
+        "android_client_info": {
+          "package_name": "com.example.iotaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePpX0laboiVscU24ykH2iwGSOHFsjDd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642806796317:android:c057d233ace84f64a1b6f4",
+        "android_client_info": {
+          "package_name": "com.example.smarthouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePpX0laboiVscU24ykH2iwGSOHFsjDd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
